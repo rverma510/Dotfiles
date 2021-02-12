@@ -1,0 +1,7 @@
+1. C/C++ - ms-vscode.cpptools
+2. Jupyter - ms-toolsai.jupyter
+3. Live Server - ritwickdey.liveserver
+4. Material Icon Theme - pkief.material-icon-theme
+5. Python - ms-python.python
+6. Remote WSL - ms-vscode-remote.remote-wsl
+7. Vim - vscodevim.vim
