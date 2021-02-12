@@ -1,0 +1,34 @@
+{
+    "window.zoomLevel": 1,
+    "extensions.ignoreRecommendations": false,
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "explorer.confirmDelete": false,
+    "workbench.editorAssociations": [],
+    "workbench.iconTheme": "material-icon-theme",
+    "vim.easymotion": true,
+    "vim.sneak": true,
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": true,
+    "vim.hlsearch": true,
+    "vim.insertModeKeyBindings": [
+        {
+        "before": ["k", "j"],
+        "after": ["<Esc>"]
+        }
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+        "before": ["<leader>", "d"],
+        "after": ["d", "d"]
+        },
+        {
+        "before": ["<C-n>"],
+        "commands": [":nohl"]
+        }
+    ],
+    "vim.leader": "<space>",
+    "vim.handleKeys": {
+        "<C-a>": false,
+        "<C-f>": true
+    }
+}
